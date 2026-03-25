@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/bandi-siddartha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-BANDI--SIDDARTHA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/GhostUchiha64" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GhostUchiha64-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/BandiSiddartha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BandiSiddartha-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0003-5100-8520" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--5100--8520-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
@@ -94,8 +94,8 @@ I'm an **MS Data Science candidate at the University of North Dakota (UND)**, sp
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostUchiha64&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostUchiha64&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BandiSiddartha&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandiSiddartha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
  
 ---
